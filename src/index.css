@@ -1,0 +1,13 @@
+.table {
+    table-layout: fixed;
+    Word-wrap: break-Word;
+}
+
+/*td {
+    max-width: 120px;
+    overflow: hidden;
+    text-overflow: Ellipsis;
+    white-space: nowrap;
+    word-wrap: break-Word
+  }*/
+
